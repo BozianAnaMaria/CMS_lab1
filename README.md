@@ -3,6 +3,8 @@
 ## Pasul 1. Pregătirea mediului
 - Instalează XAMPP (sau un stack similar: OpenServer, MAMP, Docker)
 - Pornește modulele Apache și MySQL. Asigură-te că http://localhost se deschide.
+<img width="821" height="526" alt="image" src="https://github.com/user-attachments/assets/93bd5b65-a7e4-4e56-b980-b3c81e02229a" />
+
 - În phpMyAdmin, creează o bază de date nouă, de exemplu wp_lab2.
 
 
